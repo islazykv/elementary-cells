@@ -1,6 +1,6 @@
 # Data Science Physics
 <div style="text-align: right">
-Description...
+  During my Ph.D. studies I had a chance to work on the Ring-Imaging Chrenkov (RICH) detector upgrade. 
 </div>
 
 ## Contents
