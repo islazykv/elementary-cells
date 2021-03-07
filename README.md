@@ -1,4 +1,4 @@
-# Data Science Physics
+# Elementary Cell Quality Assurance Analysis
 <div style="align: justify">
 During my Ph.D. studies I had a chance to work on the Ring-Imaging Chrenkov (RICH) detector upgrade for the LHCb experiment at CERN. The analysis scripts used for my Ph.D. thesis were written in the Python/C++ using CERN ROOT library for the data visualization. I decided to take some part of the analysis, rewrite it to be 100% python code using the most common data visualization libraries such as: Matplotlib and Seaborn, make it Jupyter-Notebook friendly and upload it here. If you are interested in this matter, I invite you to read my Ph.D. thesis.
 
