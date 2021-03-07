@@ -9,4 +9,4 @@ During my Ph.D. studies I had a chance to work on the Ring-Imaging Chrenkov (RIC
 - [Dark Count Rate Analysis](https://github.com/islazykv/data-science/blob/main/data-analysis/physics/DCR-analysis.ipynb)
 - [Threshold Scan Analysis](https://github.com/islazykv/data-science/blob/main/data-analysis/physics/THR-analysis.ipynb)
 
-<img src="materials\EC_Picture.jpg" alt="Drawing" style="width: 100%;"/>
+<img src="materials\ECs_Picture.jpg" alt="Drawing" style="width: 100%;"/>
