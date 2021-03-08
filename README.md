@@ -10,6 +10,6 @@ During my Ph.D. studies I had a chance to work on the Ring-Imaging Chrenkov (RIC
 
 The main objective was to perform four analyses (as presented above) to characterize so-called Elementary Cell (picture below) - the new detection unit of the RICH detectors implemented in the latestest upgrade. An Elementary Cell is a combination of Multi-Anode Photomultiplier Tubes (MaPMTs) and front-end electronics (such as: Base-Board, Back-Board and Front-End Boards). There are two types of the Elementary Cell: R-type (left side of the picture) and H-Type (right side of the picture). R-type is used in the central regions of the RICH detectors (where the occupancy is the highest) while the H-type is used at the borders of the RICH2 detector. If you are interested in this matter, I invite you to read my Ph.D. thesis. The analysis scripts were implemented in the final automated software for the Elementary Cell quality assurance, where upon completion of a particular measurement, an analysis was performed. For every analysis, the workflow is as follows: get a specific .txt measurement file, extract essential mapping and measurement data, calculate parameters of interest, visualize it and save everything as PDF files. For the sake of the Jupyter Notebook environment, I made only the first plot visible (as there are thousands of plots generated), the rest plots can be seen in 'output' folder.
 
-<img width=50% src="materials\ECs_Picture.jpg"/ align = "center">
+<img width=50% text-align = "center" src="materials\ECs_Picture.jpg"/>
 
 </div>
